@@ -1,0 +1,15 @@
+# Environment files
+.env
+.env.prod
+
+# Docker volumes
+sonarqube_data/
+sonarqube_extensions/
+sonarqube_logs/
+postgresql_data/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo 
